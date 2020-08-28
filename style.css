@@ -1,0 +1,18 @@
+body{
+
+    background-color: gray;
+}
+
+#title{
+
+    text-align: center;
+    margin-right: 500px;
+    margin-left: 500px;
+    background-color: black;
+    color: lightseagreen;
+}
+
+.informacao{
+    font-size: 20px;
+    text-align: center;
+}
